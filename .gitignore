@@ -17,18 +17,3 @@ Jams/**/*
 !Beats/DrumParts/*.mid
 !Beats/DrumParts/*.midi
 !Beats/DrumParts/*.mp3
-!Beats/OriginalBeats/*.md
-
-# Scripting files -----
-
-!FileManagement/**/readme.md
-!FileManagement/*.cmd
-!FileManagement/*.sh
-!FileManagement/inventory.html
-!FileManagement/Scripts/index.html
-!FileManagement/Scripts/*.js
-!FileManagement/Scripts/*.json
-!FileManagement/Scripts/tools/*.js
-!FileManagement/Scripts/tools/*.json
-!FileManagement/Scripts/js/*.js
-!FileManagement/Scripts/css/*.css

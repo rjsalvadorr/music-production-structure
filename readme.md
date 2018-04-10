@@ -95,10 +95,6 @@ Music Production (or whatever you name this thing)
 ├───Beats - Can contain MIDI files as well as sound files
 │   └───DrumParts - Individual drum lines for kick/snare/hi-hat, etc.
 ├───Documentation - Guides/manuals for DAWs, VSTs, real equipment
-├───FileManagement - Tools for managing project files
-│   ├───Scripts - Node.JS scripts that do the real work
-│   ├───UtilsMacLinux - Tools for *NIX environments
-│   └───UtilsWindows - Tools for Windows
 ├───Jams - Freestyles and brainstorms
 ├───Projects - Actual projects. Should be DAW-agnostic. For example:
 │   ├───34F4C-quailhunt
